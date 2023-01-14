@@ -1,4 +1,4 @@
-# FusionIIIT
+# FusionIIIT !
 
 **FusionIIIT** is the automation of various functionalities, modules and tasks of/for **PDPM Indian Institute of Information Technology, Design and Manufacturing, Jabalpur** being developed in `python3.8` and using `Django` Webframework.
 
